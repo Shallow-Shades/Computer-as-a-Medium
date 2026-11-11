@@ -6,12 +6,12 @@ public class Healthpack : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     void Update()
     {
-        
+
     }
     public void OnTriggerEnter2D(Collider2D other)
     {
