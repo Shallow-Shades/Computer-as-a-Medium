@@ -7,4 +7,3 @@
 ### Healthpack
 ### Mana
 ### Trap
-### Fireball
